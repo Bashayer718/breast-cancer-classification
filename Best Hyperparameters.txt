@@ -1,0 +1,236 @@
+﻿Training with Learning Rate: 0.001, Batch Size: 16, Optimizer: Adam
+Epoch 1/10, Train Loss: 0.2687, Train Accuracy: 89.44%, Val Loss: 0.3544, Val Accuracy: 95.86%
+Epoch 2/10, Train Loss: 0.2030, Train Accuracy: 92.84%, Val Loss: 1.3166, Val Accuracy: 60.90%
+Epoch 3/10, Train Loss: 0.1268, Train Accuracy: 95.48%, Val Loss: 1.9030, Val Accuracy: 59.77%
+Epoch 4/10, Train Loss: 0.1129, Train Accuracy: 96.14%, Val Loss: 0.7838, Val Accuracy: 62.41%
+Epoch 5/10, Train Loss: 0.0785, Train Accuracy: 97.36%, Val Loss: 0.5971, Val Accuracy: 62.03%
+Epoch 6/10, Train Loss: 0.0746, Train Accuracy: 97.64%, Val Loss: 0.7562, Val Accuracy: 63.16%
+Epoch 7/10, Train Loss: 0.0721, Train Accuracy: 97.55%, Val Loss: 0.9744, Val Accuracy: 59.77%
+Epoch 8/10, Train Loss: 0.1408, Train Accuracy: 95.48%, Val Loss: 0.7596, Val Accuracy: 61.28%
+Epoch 9/10, Train Loss: 0.0723, Train Accuracy: 97.17%, Val Loss: 0.4589, Val Accuracy: 64.29%
+Epoch 10/10, Train Loss: 0.1013, Train Accuracy: 96.23%, Val Loss: 0.2548, Val Accuracy: 96.24%
+
+
+Training with Learning Rate: 0.001, Batch Size: 16, Optimizer: SGD
+Epoch 1/10, Train Loss: 0.3009, Train Accuracy: 90.86%, Val Loss: 0.5821, Val Accuracy: 63.16%
+Epoch 2/10, Train Loss: 0.0865, Train Accuracy: 97.74%, Val Loss: 0.2908, Val Accuracy: 97.37%
+Epoch 3/10, Train Loss: 0.0432, Train Accuracy: 99.06%, Val Loss: 0.0756, Val Accuracy: 97.74%
+Epoch 4/10, Train Loss: 0.0476, Train Accuracy: 98.49%, Val Loss: 0.0813, Val Accuracy: 97.74%
+Epoch 5/10, Train Loss: 0.0293, Train Accuracy: 99.06%, Val Loss: 0.1251, Val Accuracy: 98.12%
+Epoch 6/10, Train Loss: 0.0301, Train Accuracy: 99.15%, Val Loss: 0.0965, Val Accuracy: 97.37%
+Epoch 7/10, Train Loss: 0.0267, Train Accuracy: 99.43%, Val Loss: 0.0740, Val Accuracy: 97.37%
+Epoch 8/10, Train Loss: 0.0339, Train Accuracy: 99.15%, Val Loss: 0.2029, Val Accuracy: 92.11%
+Epoch 9/10, Train Loss: 0.0218, Train Accuracy: 99.34%, Val Loss: 0.1078, Val Accuracy: 97.37%
+Epoch 10/10, Train Loss: 0.0107, Train Accuracy: 99.53%, Val Loss: 0.0811, Val Accuracy: 97.74%
+
+
+Training with Learning Rate: 0.001, Batch Size: 32, Optimizer: Adam
+Epoch 1/10, Train Loss: 0.2503, Train Accuracy: 89.44%, Val Loss: 1.0999, Val Accuracy: 81.20%
+Epoch 2/10, Train Loss: 0.1188, Train Accuracy: 95.66%, Val Loss: 0.6754, Val Accuracy: 88.72%
+Epoch 3/10, Train Loss: 0.1585, Train Accuracy: 95.10%, Val Loss: 0.7887, Val Accuracy: 56.02%
+Epoch 4/10, Train Loss: 0.0549, Train Accuracy: 98.21%, Val Loss: 0.8231, Val Accuracy: 63.91%
+Epoch 5/10, Train Loss: 0.0826, Train Accuracy: 97.27%, Val Loss: 0.2838, Val Accuracy: 96.62%
+Epoch 6/10, Train Loss: 0.0499, Train Accuracy: 98.40%, Val Loss: 0.6465, Val Accuracy: 64.29%
+Epoch 7/10, Train Loss: 0.0604, Train Accuracy: 98.30%, Val Loss: 1.4200, Val Accuracy: 79.70%
+Epoch 8/10, Train Loss: 0.0426, Train Accuracy: 98.49%, Val Loss: 0.1730, Val Accuracy: 95.11%
+Epoch 9/10, Train Loss: 0.0235, Train Accuracy: 99.25%, Val Loss: 0.8528, Val Accuracy: 63.91%
+Epoch 10/10, Train Loss: 0.0341, Train Accuracy: 98.87%, Val Loss: 1.0591, Val Accuracy: 63.16%
+
+
+Training with Learning Rate: 0.001, Batch Size: 32, Optimizer: SGD
+Epoch 1/10, Train Loss: 0.4690, Train Accuracy: 82.09%, Val Loss: 0.5074, Val Accuracy: 62.03%
+Epoch 2/10, Train Loss: 0.0839, Train Accuracy: 97.93%, Val Loss: 0.3086, Val Accuracy: 98.50%
+Epoch 3/10, Train Loss: 0.0384, Train Accuracy: 99.34%, Val Loss: 0.2332, Val Accuracy: 98.87%
+Epoch 4/10, Train Loss: 0.0206, Train Accuracy: 99.91%, Val Loss: 0.2332, Val Accuracy: 98.12%
+Epoch 5/10, Train Loss: 0.0249, Train Accuracy: 99.43%, Val Loss: 0.1643, Val Accuracy: 98.50%
+Epoch 6/10, Train Loss: 0.0129, Train Accuracy: 99.81%, Val Loss: 0.0968, Val Accuracy: 98.50%
+Epoch 7/10, Train Loss: 0.0188, Train Accuracy: 99.34%, Val Loss: 0.3931, Val Accuracy: 64.66%
+Epoch 8/10, Train Loss: 0.0152, Train Accuracy: 99.81%, Val Loss: 0.0819, Val Accuracy: 97.74%
+Epoch 9/10, Train Loss: 0.0078, Train Accuracy: 99.81%, Val Loss: 0.3023, Val Accuracy: 97.74%
+Epoch 10/10, Train Loss: 0.0076, Train Accuracy: 99.81%, Val Loss: 0.0788, Val Accuracy: 98.12%
+
+
+Training with Learning Rate: 0.001, Batch Size: 64, Optimizer: Adam
+Epoch 1/10, Train Loss: 0.2570, Train Accuracy: 89.73%, Val Loss: 0.3577, Val Accuracy: 89.85%
+Epoch 2/10, Train Loss: 0.0889, Train Accuracy: 96.89%, Val Loss: 1.3099, Val Accuracy: 63.91%
+Epoch 3/10, Train Loss: 0.0471, Train Accuracy: 98.49%, Val Loss: 0.1025, Val Accuracy: 96.24%
+Epoch 4/10, Train Loss: 0.0312, Train Accuracy: 98.77%, Val Loss: 0.5848, Val Accuracy: 62.78%
+Epoch 5/10, Train Loss: 0.0237, Train Accuracy: 99.06%, Val Loss: 0.3594, Val Accuracy: 91.73%
+Epoch 6/10, Train Loss: 0.0176, Train Accuracy: 99.53%, Val Loss: 0.2916, Val Accuracy: 93.98%
+Epoch 7/10, Train Loss: 0.0202, Train Accuracy: 99.25%, Val Loss: 2.8828, Val Accuracy: 66.92%
+Epoch 8/10, Train Loss: 0.0274, Train Accuracy: 98.96%, Val Loss: 0.4125, Val Accuracy: 96.24%
+Epoch 9/10, Train Loss: 0.0079, Train Accuracy: 99.91%, Val Loss: 0.1065, Val Accuracy: 97.37%
+Epoch 10/10, Train Loss: 0.0050, Train Accuracy: 99.81%, Val Loss: 2.3800, Val Accuracy: 64.29%
+
+
+Training with Learning Rate: 0.001, Batch Size: 64, Optimizer: SGD
+Epoch 1/10, Train Loss: 0.6400, Train Accuracy: 76.06%, Val Loss: 0.7124, Val Accuracy: 59.02%
+Epoch 2/10, Train Loss: 0.1754, Train Accuracy: 94.91%, Val Loss: 0.7460, Val Accuracy: 64.66%
+Epoch 3/10, Train Loss: 0.0871, Train Accuracy: 97.83%, Val Loss: 0.5419, Val Accuracy: 65.41%
+Epoch 4/10, Train Loss: 0.0539, Train Accuracy: 98.77%, Val Loss: 0.1992, Val Accuracy: 98.12%
+Epoch 5/10, Train Loss: 0.0358, Train Accuracy: 99.43%, Val Loss: 0.5601, Val Accuracy: 65.04%
+Epoch 6/10, Train Loss: 0.0214, Train Accuracy: 99.91%, Val Loss: 0.1473, Val Accuracy: 98.12%
+Epoch 7/10, Train Loss: 0.0216, Train Accuracy: 99.72%, Val Loss: 0.2930, Val Accuracy: 98.12%
+Epoch 8/10, Train Loss: 0.0127, Train Accuracy: 100.00%, Val Loss: 0.0612, Val Accuracy: 98.12%
+Epoch 9/10, Train Loss: 0.0117, Train Accuracy: 100.00%, Val Loss: 0.0667, Val Accuracy: 98.12%
+Epoch 10/10, Train Loss: 0.0072, Train Accuracy: 100.00%, Val Loss: 0.0539, Val Accuracy: 98.12%
+
+
+Training with Learning Rate: 0.0005, Batch Size: 16, Optimizer: Adam
+Epoch 1/10, Train Loss: 0.2659, Train Accuracy: 89.63%, Val Loss: 0.0958, Val Accuracy: 97.37%
+Epoch 2/10, Train Loss: 0.1199, Train Accuracy: 96.14%, Val Loss: 0.1108, Val Accuracy: 96.62%
+Epoch 3/10, Train Loss: 0.0787, Train Accuracy: 97.08%, Val Loss: 0.2482, Val Accuracy: 96.24%
+Epoch 4/10, Train Loss: 0.0983, Train Accuracy: 96.23%, Val Loss: 0.3620, Val Accuracy: 96.62%
+Epoch 5/10, Train Loss: 0.0579, Train Accuracy: 97.64%, Val Loss: 0.1167, Val Accuracy: 96.62%
+Epoch 6/10, Train Loss: 0.0414, Train Accuracy: 98.77%, Val Loss: 0.1695, Val Accuracy: 95.11%
+Epoch 7/10, Train Loss: 0.0910, Train Accuracy: 96.89%, Val Loss: 0.0892, Val Accuracy: 96.99%
+Epoch 8/10, Train Loss: 0.0815, Train Accuracy: 97.55%, Val Loss: 0.4229, Val Accuracy: 64.29%
+Epoch 9/10, Train Loss: 0.1147, Train Accuracy: 96.61%, Val Loss: 3.2775, Val Accuracy: 44.74%
+Epoch 10/10, Train Loss: 0.0569, Train Accuracy: 98.02%, Val Loss: 0.0979, Val Accuracy: 95.11%
+
+
+Training with Learning Rate: 0.0005, Batch Size: 16, Optimizer: SGD
+Epoch 1/10, Train Loss: 0.3772, Train Accuracy: 88.50%, Val Loss: 0.8611, Val Accuracy: 59.02%
+Epoch 2/10, Train Loss: 0.1316, Train Accuracy: 95.95%, Val Loss: 0.8421, Val Accuracy: 65.41%
+Epoch 3/10, Train Loss: 0.0897, Train Accuracy: 97.55%, Val Loss: 0.3086, Val Accuracy: 98.12%
+Epoch 4/10, Train Loss: 0.0479, Train Accuracy: 98.96%, Val Loss: 0.5210, Val Accuracy: 64.29%
+Epoch 5/10, Train Loss: 0.0232, Train Accuracy: 99.62%, Val Loss: 0.1476, Val Accuracy: 98.50%
+Epoch 6/10, Train Loss: 0.0341, Train Accuracy: 99.06%, Val Loss: 0.4784, Val Accuracy: 63.53%
+Epoch 7/10, Train Loss: 0.0241, Train Accuracy: 99.43%, Val Loss: 0.5095, Val Accuracy: 65.04%
+Epoch 8/10, Train Loss: 0.0217, Train Accuracy: 99.43%, Val Loss: 0.4858, Val Accuracy: 64.29%
+Epoch 9/10, Train Loss: 0.0134, Train Accuracy: 99.91%, Val Loss: 0.0631, Val Accuracy: 98.12%
+Epoch 10/10, Train Loss: 0.0108, Train Accuracy: 99.81%, Val Loss: 0.0776, Val Accuracy: 98.12%
+
+
+Training with Learning Rate: 0.0005, Batch Size: 32, Optimizer: Adam
+Epoch 1/10, Train Loss: 0.1842, Train Accuracy: 93.59%, Val Loss: 0.0984, Val Accuracy: 97.37%
+Epoch 2/10, Train Loss: 0.0530, Train Accuracy: 97.93%, Val Loss: 0.2356, Val Accuracy: 96.24%
+Epoch 3/10, Train Loss: 0.0273, Train Accuracy: 99.34%, Val Loss: 0.1030, Val Accuracy: 97.37%
+Epoch 4/10, Train Loss: 0.0695, Train Accuracy: 97.83%, Val Loss: 2.0844, Val Accuracy: 55.64%
+Epoch 5/10, Train Loss: 0.0378, Train Accuracy: 98.49%, Val Loss: 0.1970, Val Accuracy: 97.74%
+Epoch 6/10, Train Loss: 0.0551, Train Accuracy: 97.74%, Val Loss: 0.2434, Val Accuracy: 94.36%
+Epoch 7/10, Train Loss: 0.0506, Train Accuracy: 98.49%, Val Loss: 0.5208, Val Accuracy: 63.16%
+Epoch 8/10, Train Loss: 0.1259, Train Accuracy: 95.29%, Val Loss: 0.7235, Val Accuracy: 62.78%
+Epoch 9/10, Train Loss: 0.0567, Train Accuracy: 98.21%, Val Loss: 0.3065, Val Accuracy: 89.10%
+Epoch 10/10, Train Loss: 0.0898, Train Accuracy: 97.17%, Val Loss: 0.0844, Val Accuracy: 96.99%
+
+
+Training with Learning Rate: 0.0005, Batch Size: 32, Optimizer: SGD
+Epoch 1/10, Train Loss: 0.5179, Train Accuracy: 83.41%, Val Loss: 0.9499, Val Accuracy: 61.28%
+Epoch 2/10, Train Loss: 0.1800, Train Accuracy: 94.82%, Val Loss: 1.0046, Val Accuracy: 63.16%
+Epoch 3/10, Train Loss: 0.1049, Train Accuracy: 97.46%, Val Loss: 0.7287, Val Accuracy: 63.53%
+Epoch 4/10, Train Loss: 0.0660, Train Accuracy: 98.59%, Val Loss: 0.4136, Val Accuracy: 65.04%
+Epoch 5/10, Train Loss: 0.0463, Train Accuracy: 99.06%, Val Loss: 0.8808, Val Accuracy: 63.91%
+Epoch 6/10, Train Loss: 0.0376, Train Accuracy: 99.53%, Val Loss: 0.0728, Val Accuracy: 98.12%
+Epoch 7/10, Train Loss: 0.0373, Train Accuracy: 99.25%, Val Loss: 0.2122, Val Accuracy: 98.50%
+Epoch 8/10, Train Loss: 0.0258, Train Accuracy: 99.81%, Val Loss: 0.3669, Val Accuracy: 98.87%
+Epoch 9/10, Train Loss: 0.0178, Train Accuracy: 99.81%, Val Loss: 0.6768, Val Accuracy: 65.04%
+Epoch 10/10, Train Loss: 0.0169, Train Accuracy: 99.72%, Val Loss: 0.1686, Val Accuracy: 98.50%
+
+
+Training with Learning Rate: 0.0005, Batch Size: 64, Optimizer: Adam
+Epoch 1/10, Train Loss: 0.2010, Train Accuracy: 92.18%, Val Loss: 0.1007, Val Accuracy: 96.99%
+Epoch 2/10, Train Loss: 0.0749, Train Accuracy: 97.17%, Val Loss: 0.1172, Val Accuracy: 97.37%
+Epoch 3/10, Train Loss: 0.0601, Train Accuracy: 97.36%, Val Loss: 0.1642, Val Accuracy: 94.36%
+Epoch 4/10, Train Loss: 0.0129, Train Accuracy: 99.91%, Val Loss: 0.0571, Val Accuracy: 98.50%
+Epoch 5/10, Train Loss: 0.0024, Train Accuracy: 100.00%, Val Loss: 0.0528, Val Accuracy: 97.74%
+Epoch 6/10, Train Loss: 0.0024, Train Accuracy: 99.91%, Val Loss: 0.1061, Val Accuracy: 96.62%
+Epoch 7/10, Train Loss: 0.0088, Train Accuracy: 99.43%, Val Loss: 0.1550, Val Accuracy: 98.50%
+Epoch 8/10, Train Loss: 0.0134, Train Accuracy: 99.53%, Val Loss: 0.0833, Val Accuracy: 97.37%
+Epoch 9/10, Train Loss: 0.0148, Train Accuracy: 99.62%, Val Loss: 0.2863, Val Accuracy: 92.86%
+Epoch 10/10, Train Loss: 0.0433, Train Accuracy: 98.59%, Val Loss: 0.4296, Val Accuracy: 90.23%
+
+
+Training with Learning Rate: 0.0005, Batch Size: 64, Optimizer: SGD
+Epoch 1/10, Train Loss: 0.7871, Train Accuracy: 70.22%, Val Loss: 0.7704, Val Accuracy: 89.10%
+Epoch 2/10, Train Loss: 0.3288, Train Accuracy: 91.80%, Val Loss: 0.6961, Val Accuracy: 55.64%
+Epoch 3/10, Train Loss: 0.1727, Train Accuracy: 96.04%, Val Loss: 0.5897, Val Accuracy: 62.03%
+Epoch 4/10, Train Loss: 0.1106, Train Accuracy: 97.93%, Val Loss: 0.3882, Val Accuracy: 96.62%
+Epoch 5/10, Train Loss: 0.0908, Train Accuracy: 98.02%, Val Loss: 0.2689, Val Accuracy: 98.12%
+Epoch 6/10, Train Loss: 0.0644, Train Accuracy: 98.96%, Val Loss: 0.5049, Val Accuracy: 65.41%
+Epoch 7/10, Train Loss: 0.0464, Train Accuracy: 99.53%, Val Loss: 0.2262, Val Accuracy: 98.50%
+Epoch 8/10, Train Loss: 0.0371, Train Accuracy: 99.53%, Val Loss: 0.4218, Val Accuracy: 65.41%
+Epoch 9/10, Train Loss: 0.0361, Train Accuracy: 99.72%, Val Loss: 0.0766, Val Accuracy: 98.50%
+Epoch 10/10, Train Loss: 0.0271, Train Accuracy: 99.72%, Val Loss: 0.1774, Val Accuracy: 98.50%
+
+
+Training with Learning Rate: 0.0001, Batch Size: 16, Optimizer: Adam
+Epoch 1/10, Train Loss: 0.2153, Train Accuracy: 91.80%, Val Loss: 0.3877, Val Accuracy: 95.86%
+Epoch 2/10, Train Loss: 0.0610, Train Accuracy: 98.40%, Val Loss: 0.2298, Val Accuracy: 94.74%
+Epoch 3/10, Train Loss: 0.0694, Train Accuracy: 98.21%, Val Loss: 0.6037, Val Accuracy: 64.66%
+Epoch 4/10, Train Loss: 0.0510, Train Accuracy: 98.30%, Val Loss: 0.1039, Val Accuracy: 96.62%
+Epoch 5/10, Train Loss: 0.0221, Train Accuracy: 99.43%, Val Loss: 0.0721, Val Accuracy: 97.37%
+Epoch 6/10, Train Loss: 0.0368, Train Accuracy: 98.96%, Val Loss: 0.0965, Val Accuracy: 96.99%
+Epoch 7/10, Train Loss: 0.0195, Train Accuracy: 99.62%, Val Loss: 0.0833, Val Accuracy: 98.12%
+Epoch 8/10, Train Loss: 0.0376, Train Accuracy: 99.43%, Val Loss: 0.0785, Val Accuracy: 97.37%
+Epoch 9/10, Train Loss: 0.0112, Train Accuracy: 99.72%, Val Loss: 0.0932, Val Accuracy: 98.12%
+Epoch 10/10, Train Loss: 0.0142, Train Accuracy: 99.53%, Val Loss: 0.0832, Val Accuracy: 97.74%
+
+
+Training with Learning Rate: 0.0001, Batch Size: 16, Optimizer: SGD
+Epoch 1/10, Train Loss: 0.6273, Train Accuracy: 79.64%, Val Loss: 0.6799, Val Accuracy: 90.98%
+Epoch 2/10, Train Loss: 0.3318, Train Accuracy: 91.52%, Val Loss: 1.0638, Val Accuracy: 58.27%
+Epoch 3/10, Train Loss: 0.2358, Train Accuracy: 94.34%, Val Loss: 0.4741, Val Accuracy: 96.62%
+Epoch 4/10, Train Loss: 0.1803, Train Accuracy: 95.29%, Val Loss: 1.0866, Val Accuracy: 62.41%
+Epoch 5/10, Train Loss: 0.1500, Train Accuracy: 96.42%, Val Loss: 0.2317, Val Accuracy: 98.87%
+Epoch 6/10, Train Loss: 0.1315, Train Accuracy: 96.42%, Val Loss: 0.8756, Val Accuracy: 63.53%
+Epoch 7/10, Train Loss: 0.1019, Train Accuracy: 97.93%, Val Loss: 0.6760, Val Accuracy: 63.16%
+Epoch 8/10, Train Loss: 0.1016, Train Accuracy: 97.55%, Val Loss: 0.6950, Val Accuracy: 65.41%
+Epoch 9/10, Train Loss: 0.0839, Train Accuracy: 98.30%, Val Loss: 0.4071, Val Accuracy: 65.04%
+Epoch 10/10, Train Loss: 0.0746, Train Accuracy: 98.02%, Val Loss: 0.7607, Val Accuracy: 65.41%
+
+
+Training with Learning Rate: 0.0001, Batch Size: 32, Optimizer: Adam
+Epoch 1/10, Train Loss: 0.2890, Train Accuracy: 90.20%, Val Loss: 0.6800, Val Accuracy: 59.02%
+Epoch 2/10, Train Loss: 0.0483, Train Accuracy: 98.40%, Val Loss: 0.6374, Val Accuracy: 65.04%
+Epoch 3/10, Train Loss: 0.0429, Train Accuracy: 98.87%, Val Loss: 0.1657, Val Accuracy: 98.50%
+Epoch 4/10, Train Loss: 0.0226, Train Accuracy: 99.62%, Val Loss: 0.1348, Val Accuracy: 98.50%
+Epoch 5/10, Train Loss: 0.0185, Train Accuracy: 99.72%, Val Loss: 0.0784, Val Accuracy: 97.74%
+Epoch 6/10, Train Loss: 0.0397, Train Accuracy: 98.77%, Val Loss: 0.1396, Val Accuracy: 97.74%
+Epoch 7/10, Train Loss: 0.0236, Train Accuracy: 99.62%, Val Loss: 0.0633, Val Accuracy: 98.50%
+Epoch 8/10, Train Loss: 0.0122, Train Accuracy: 99.72%, Val Loss: 0.0751, Val Accuracy: 97.74%
+Epoch 9/10, Train Loss: 0.0159, Train Accuracy: 99.91%, Val Loss: 0.0673, Val Accuracy: 97.74%
+Epoch 10/10, Train Loss: 0.0258, Train Accuracy: 99.43%, Val Loss: 0.0965, Val Accuracy: 97.74%
+
+
+Training with Learning Rate: 0.0001, Batch Size: 32, Optimizer: SGD
+Epoch 1/10, Train Loss: 0.8370, Train Accuracy: 65.32%, Val Loss: 1.0221, Val Accuracy: 35.71%
+Epoch 2/10, Train Loss: 0.4329, Train Accuracy: 91.23%, Val Loss: 0.9479, Val Accuracy: 58.65%
+Epoch 3/10, Train Loss: 0.3183, Train Accuracy: 93.21%, Val Loss: 0.8211, Val Accuracy: 60.90%
+Epoch 4/10, Train Loss: 0.2425, Train Accuracy: 94.16%, Val Loss: 0.4627, Val Accuracy: 96.62%
+Epoch 5/10, Train Loss: 0.1991, Train Accuracy: 95.76%, Val Loss: 0.5994, Val Accuracy: 61.28%
+Epoch 6/10, Train Loss: 0.1705, Train Accuracy: 96.42%, Val Loss: 0.5794, Val Accuracy: 64.29%
+Epoch 7/10, Train Loss: 0.1391, Train Accuracy: 97.46%, Val Loss: 0.5251, Val Accuracy: 65.04%
+Epoch 8/10, Train Loss: 0.1282, Train Accuracy: 97.46%, Val Loss: 0.1804, Val Accuracy: 98.50%
+Epoch 9/10, Train Loss: 0.1159, Train Accuracy: 97.08%, Val Loss: 0.4892, Val Accuracy: 64.29%
+Epoch 10/10, Train Loss: 0.1052, Train Accuracy: 97.93%, Val Loss: 0.1728, Val Accuracy: 96.24%
+
+
+Training with Learning Rate: 0.0001, Batch Size: 64, Optimizer: Adam
+Epoch 1/10, Train Loss: 0.3560, Train Accuracy: 86.52%, Val Loss: 0.4411, Val Accuracy: 98.87%
+Epoch 2/10, Train Loss: 0.0694, Train Accuracy: 98.21%, Val Loss: 0.5518, Val Accuracy: 65.41%
+Epoch 3/10, Train Loss: 0.0251, Train Accuracy: 99.62%, Val Loss: 0.2414, Val Accuracy: 96.62%
+Epoch 4/10, Train Loss: 0.0151, Train Accuracy: 99.62%, Val Loss: 0.1942, Val Accuracy: 98.12%
+Epoch 5/10, Train Loss: 0.0099, Train Accuracy: 99.81%, Val Loss: 0.1088, Val Accuracy: 97.74%
+Epoch 6/10, Train Loss: 0.0047, Train Accuracy: 100.00%, Val Loss: 0.0654, Val Accuracy: 98.50%
+Epoch 7/10, Train Loss: 0.0056, Train Accuracy: 100.00%, Val Loss: 0.0562, Val Accuracy: 98.50%
+Epoch 8/10, Train Loss: 0.0035, Train Accuracy: 100.00%, Val Loss: 0.0637, Val Accuracy: 98.50%
+Epoch 9/10, Train Loss: 0.0029, Train Accuracy: 100.00%, Val Loss: 0.0601, Val Accuracy: 98.50%
+Epoch 10/10, Train Loss: 0.0253, Train Accuracy: 99.34%, Val Loss: 0.8753, Val Accuracy: 59.77%
+
+
+Training with Learning Rate: 0.0001, Batch Size: 64, Optimizer: SGD
+Epoch 1/10, Train Loss: 0.9055, Train Accuracy: 60.41%, Val Loss: 0.9636, Val Accuracy: 56.77%
+Epoch 2/10, Train Loss: 0.6059, Train Accuracy: 84.26%, Val Loss: 0.8945, Val Accuracy: 34.96%
+Epoch 3/10, Train Loss: 0.4534, Train Accuracy: 90.39%, Val Loss: 0.7758, Val Accuracy: 58.27%
+Epoch 4/10, Train Loss: 0.3593, Train Accuracy: 92.37%, Val Loss: 0.8502, Val Accuracy: 58.27%
+Epoch 5/10, Train Loss: 0.3017, Train Accuracy: 93.50%, Val Loss: 0.6286, Val Accuracy: 62.03%
+Epoch 6/10, Train Loss: 0.2607, Train Accuracy: 94.53%, Val Loss: 0.5717, Val Accuracy: 62.03%
+Epoch 7/10, Train Loss: 0.2353, Train Accuracy: 94.91%, Val Loss: 0.5040, Val Accuracy: 94.74%
+Epoch 8/10, Train Loss: 0.2076, Train Accuracy: 95.85%, Val Loss: 0.3893, Val Accuracy: 95.86%
+Epoch 9/10, Train Loss: 0.1955, Train Accuracy: 96.23%, Val Loss: 0.7393, Val Accuracy: 61.65%
+Epoch 10/10, Train Loss: 0.1633, Train Accuracy: 96.89%, Val Loss: 0.6805, Val Accuracy: 65.04%
+
+
+Best Hyperparameters: {'learning_rate': 0.001, 'batch_size': 32, 'optimizer': 'SGD'}
+Best Validation Accuracy: 98.87%
