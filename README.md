@@ -20,6 +20,7 @@ This project focuses on leveraging machine learning to accurately classify breas
 ## 📂 Dataset
 
 The dataset used in this project is the Breast Ultrasound Images Dataset, available on Kaggle.
+[Breast Ultrasound Images Dataset](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
 
 ---
 
@@ -75,6 +76,24 @@ Hyperparameter tuning experiments aimed to optimize accuracy. Access the [Hyperp
 
 Trained model weights are available [here](./densenet121_ultrasound_best.pth).
 
+---
+📋 Requirements
+
+Below is a list of libraries required for this project:
+
+    torch==1.10.1+cu113
+    torchvision==0.10.0+cu113
+    torchaudio==0.10.1+cu113
+    numpy==1.20.3
+    pandas==1.2.4
+    matplotlib==3.4.2
+    seaborn==0.11.1
+    opencv-python==4.5.3.56
+    scikit-learn==0.24.2
+    tensorflow==2.9.0
+    keras==2.9.0
+    Pillow==8.2.0
+    You can download the complete requirements.txt file from [here](./requirements.txt).
 ---
 
 ## **📊 Results**
