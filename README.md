@@ -93,7 +93,9 @@ Below is a list of libraries required for this project:
     tensorflow==2.9.0
     keras==2.9.0
     Pillow==8.2.0
-    You can download the complete requirements.txt file from [here](./requirements.txt).
+
+    
+You can download the complete requirements.txt file from [here](./requirements.txt).
 ---
 
 ## **📊 Results**
