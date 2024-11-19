@@ -7,7 +7,7 @@ This repository demonstrates a machine learning pipeline to classify breast ultr
 
 ## **📜 Project Overview**
 
-### The project architecture: ![architecture](images/architecture.jpeg)
+### The project architecture: ![architecture](images/architecture_1.jpg)
 
 This project focuses on leveraging machine learning to accurately classify breast ultrasound images, contributing to early breast cancer detection and diagnosis. The workflow includes:
 1. **Train on DenseNet121**: Train raw ultrasound images on the DenseNet121 architecture with typical preprocessing transformations.
